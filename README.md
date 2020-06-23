@@ -36,7 +36,7 @@ In this project, I build twitter on rails
     This project is part of the Microverse curriculum in Ruby on Rails module!
     <br />
     <a href="https://github.com/jstloyal/twitter_demo">
-      <img src="app/assets/images/tweeeter_demo.png" alt="Microverse Logo" width="800" height="500">
+      <img src="app/assets/images/tweeeter_demo.png" alt="Microverse Logo" width="1000" height="500">
     </a><br />
     <a href="https://github.com/jstloyal/twitter_demo"><strong>Explore the docs »</strong></a>
     <br />
